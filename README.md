@@ -72,10 +72,5 @@ Follow these steps to set up the project locally:
 └── styles/               # Global styles
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
